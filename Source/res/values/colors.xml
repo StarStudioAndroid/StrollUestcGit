@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#fff</color>
+
+    <drawable name="pressed_bg">#d9d9d9</drawable>
+    <drawable name="nopressed_bg">#f2f2f2</drawable>
+    <drawable name="zoom_nopressed">#d9ead3</drawable>
+    <drawable name="info_nopressed">#00ffffff</drawable>
+    
+    <color name="table_background">#cbcbcb</color>
+    <color name="background">#c5bebe</color>
+
+</resources>

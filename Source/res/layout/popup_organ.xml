@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xingchen.strolluestc.popup.PopupWindowOrgan xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/popup_detail_selector"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/nameTv"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="15dp"
+        android:gravity="center_vertical"
+        android:text="学生活动中心"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:id="@+id/detailButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="15dp"
+        android:background="@drawable/popup_detail_selector"
+        android:clickable="true" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableRight="@drawable/icon_popup_go"
+            android:duplicateParentState="true"
+            android:text="详细 "
+            android:textColor="#0033ff"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    </com.xingchen.strolluestc.popup.PopupWindowOrgan>

@@ -1,0 +1,3 @@
+1、将library导入到Eclipse中
+2、在library目录上单击鼠标右键-->Properties-->Resource-->Android-->在右侧的Library中勾选Is Library-->点Apply
+3、在StrollUestc目录上单击鼠标右键-->Properties-->Resource-->Android-->在右侧的Library中将已有的library删掉-->点add把library添加进来-->点Apply
